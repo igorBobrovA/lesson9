@@ -6,3 +6,4 @@ C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson9\lesson9\obj\Debug\lesson9.
 C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson9\lesson9\obj\Debug\lesson9.csproj.GenerateResource.cache
 C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson9\lesson9\obj\Debug\lesson9.exe
 C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson9\lesson9\obj\Debug\lesson9.pdb
+C:\Users\Сигма-М-1\Desktop\igooooooooor\lesson9\lesson9\obj\Debug\lesson9.Form1.resources
